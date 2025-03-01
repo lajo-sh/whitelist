@@ -3439,7 +3439,6 @@ gist.build
 gitbook.com
 gitbook.io
 github.com
-github.io
 githubassets.com
 githubcopilot.com
 githubusercontent.com
@@ -5858,7 +5857,6 @@ netflix.com
 netflix.net
 netgate.com
 netgear.com
-netlify.app
 netlify.com
 netmap.top
 netmarble.com
@@ -9105,7 +9103,6 @@ venmo.com
 venom.foundation
 vercel-dns.com
 vercel-insights.com
-vercel.app
 verifone.com
 verifonehq.net
 verily.com
