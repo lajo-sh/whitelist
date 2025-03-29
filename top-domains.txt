@@ -2324,7 +2324,6 @@ dditscdn.com
 ddns-intelbras.com.br
 ddns.com.br
 ddns.me
-ddns.net
 ddnsking.com
 ddog-gov.com
 de17a.com
@@ -5919,7 +5918,6 @@ ngfiles.com
 nginx.org
 ngrok-agent.com
 ngrok.com
-ngrok.io
 ngtv.io
 ngxcld.com
 nhentai.net
